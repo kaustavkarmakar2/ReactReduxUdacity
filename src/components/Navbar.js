@@ -2,7 +2,7 @@
 import React , { Component}  from 'react';
 
 
-class TechView extends Component {
+class Navbar extends Component {
 
     constructor(props){
        super(props);
@@ -21,4 +21,4 @@ class TechView extends Component {
     }
 }
 
-export default TechView;
+export default Navbar;
